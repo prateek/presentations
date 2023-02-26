@@ -74,13 +74,6 @@ plenty of wrong ones tho.
 </span>
 
 ---
-$$ \lim_{non-tech-shit\to0} $$
-
-<!--
-im going to try to keep non-tech shit low, but i make no promises
--->
-
----
 ## tbh tho
 
 ---
@@ -92,7 +85,7 @@ raise your hands if you got this reference
 -->
 
 ---
-if it wasn't clear, this is going to be a weird mix of dated pop-culture, philosophy, and t3ch h4cks.
+if it wasn't clear by now, this is going to be a weird mix of dated pop-culture, philosophy, and t3ch h4cks.
 strap in.
 
 ---
@@ -279,7 +272,7 @@ my jam: [Alfred](https://www.alfredapp.com/)
 other choices: [Raycast](https://www.raycast.com/), [LaunchBar](https://www.obdev.at/products/launchbar/index.html)
 
 ---
-#### alfred higlights
+#### alfred demo
 
 - Clipboard manager
 - Snippets - `gcanthelp`, `gdate`
@@ -348,3 +341,6 @@ a bite at a time
 - Payment Platform's [worklow](https://engwiki.uberinternal.com/display/TE0PAYMENTEFF/Workflow+Optimization) suggestions
 - Order Platform's [soliloquy](https://engwiki.uberinternal.com/display/TE0ORDERPLAT/4.+Life%2C+the+Universe+and+Everything)
 - [My dotfiles](github.com/prateek/dotfiles)
+
+---
+![bg contain](david-s-pumpkins.gif)
